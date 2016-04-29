@@ -3,6 +3,8 @@ Jupyter Notebooks
 
 Collection of random experiments
 
+* [01 Collect Slicer Dashboard Stats.ipynb](http://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/01%20Collect%20Slicer%20Dashboard%20Stats.ipynb)
+
 Prerequisites
 -------------
 
