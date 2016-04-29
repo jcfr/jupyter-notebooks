@@ -4,6 +4,7 @@ Jupyter Notebooks
 Collection of random experiments
 
 * [01_Collect_Slicer_Dashboard_Stats.ipynb](http://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/01_Collect_Slicer_Dashboard_Stats.ipynb)
+* [02_Update_Slicer_CLI_buildsystem_to_download_test_data_from_midas.ipynb](http://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/02_Update_Slicer_CLI_buildsystem_to_download_test_data_from_midas.ipynb)
 
 Prerequisites
 -------------
