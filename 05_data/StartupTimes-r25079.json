@@ -1,0 +1,14 @@
+{
+    "": 5.596378135681152, 
+    "--disable-builtin-cli-modules --disable-builtin-scripted-loadable-modules": 3.871851587295532, 
+    "--disable-modules": 1.684648370742798, 
+    "--disable-python": 3.1256196022033693, 
+    "--disable-builtin-cli-modules": 5.420805597305298, 
+    "--disable-python --disable-builtin-cli-modules": 3.056184196472168, 
+    "--disable-builtin-scripted-loadable-modules": 3.9126641750335693, 
+    "--disable-python --disable-builtin-scripted-loadable-modules": 3.1514752388000487, 
+    "--disable-python --disable-modules": 0.838092565536499, 
+    "--disable-builtin-loadable-modules": 2.891642141342163, 
+    "--disable-python --disable-builtin-loadable-modules": 0.8776580333709717, 
+    "--disable-python --disable-builtin-cli-modules --disable-builtin-scripted-loadable-modules": 3.0379260540008546
+}
