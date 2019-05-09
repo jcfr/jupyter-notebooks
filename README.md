@@ -8,6 +8,7 @@ Collection of random experiments
 * [05_SlicerStartupTimes.ipynb](http://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/05_SlicerStartupTimes.ipynb)
 * [26_Slicer_Licenses.ipynb](http://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/26_Slicer_Licenses.ipynb)
 * [27_Slicer_Mailing_Lists.ipynb](http://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/27_Slicer_Mailing_Lists.ipynb)
+* [28_Slicer_Discourse.ipynb](http://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/28_Slicer_Discourse.ipynb)
 
 Prerequisites
 -------------
