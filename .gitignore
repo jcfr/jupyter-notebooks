@@ -1,3 +1,17 @@
 
 .ipynb_checkpoints
 *.py[ocd]
+
+# 26_Slicer_Licenses.ipynb
+slicer-licenses
+
+# 39_slicer_package_manager-reformat-cassette
+cassettes
+cassettes.updated
+
+# 43_slicer_package_manager_mirror_extensions.ipynb / localhost_upload_slicer2_extension_packages.sh
+2.4
+4.11.20210226
+
+# 45_slicer_extensions_index_check_metadata_urls.ipynb
+Extensions-CMakeLists
