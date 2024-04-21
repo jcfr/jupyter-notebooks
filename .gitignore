@@ -1,6 +1,7 @@
 
 .ipynb_checkpoints
 *.py[ocd]
+tmp
 
 # 26_Slicer_Licenses.ipynb
 slicer-licenses
@@ -15,3 +16,4 @@ cassettes.updated
 
 # 45_slicer_extensions_index_check_metadata_urls.ipynb
 Extensions-CMakeLists
+Extension-Sources
