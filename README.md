@@ -9,6 +9,7 @@ Collection of random experiments
 * [26_Slicer_Licenses.ipynb](http://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/26_Slicer_Licenses.ipynb)
 * [27_Slicer_Mailing_Lists.ipynb](http://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/27_Slicer_Mailing_Lists.ipynb)
 * [28_Slicer_Discourse.ipynb](http://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/28_Slicer_Discourse.ipynb)
+* [59_data-kitware-com-DownloadStats-GirderClient.ipynb](https://nbviewer.jupyter.org/github/jcfr/jupyter-notebooks/blob/master/59_data-kitware-com-DownloadStats-GirderClient.ipynb)
 
 Prerequisites
 -------------
